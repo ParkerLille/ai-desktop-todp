@@ -1,0 +1,6 @@
+{
+  "name": "@ai-desktop-todo/tsconfig",
+  "private": true,
+  "type": "module",
+  "main": "base.json"
+}

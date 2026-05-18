@@ -1,0 +1,14 @@
+{
+  "name": "@ai-desktop-todo/ui",
+  "private": true,
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "build": "tsc -b",
+    "typecheck": "tsc -b"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ai-service",
+  "private": true,
+  "scripts": {
+    "dev": "uvicorn app.main:app --reload --host 127.0.0.1 --port 8787",
+    "lint": "ruff check app",
+    "typecheck": "mypy app",
+    "test": "pytest",
+    "build": "python -m compileall app"
+  }
+}

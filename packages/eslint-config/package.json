@@ -1,0 +1,6 @@
+{
+  "name": "@ai-desktop-todo/eslint-config",
+  "private": true,
+  "type": "module",
+  "main": "index.js"
+}
